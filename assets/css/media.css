@@ -1,0 +1,25 @@
+@media (max-width: 991px){
+	[class*="col-"]{
+		width: 100%;
+
+	}
+	body{
+		background-image: url(../img/night.jpg);
+
+	}
+	.kitty{
+		content: url(../img/kitten-small.png);
+		padding: 20%;
+	}
+}
+@media (max-width:767px){
+	[class*="col-"]{
+		width: 100%;
+	}
+	body{
+		background-image: url(../img/sunny-day.jpg);
+	}
+	.kitty{
+		content: url(../img/kitten-medium.png);
+		padding: 10%;
+	}

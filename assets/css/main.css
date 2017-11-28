@@ -1,0 +1,9 @@
+body{
+	background-image: url(../img/dawn.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img{
+	position: relative;
+	padding: 350px 20px 0px 350px;
+}
